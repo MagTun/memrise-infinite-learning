@@ -4,6 +4,10 @@
 // @description    Causes items to continually be loaded during a learning session
 // @match          https://www.memrise.com/course/*/garden/*
 // @match          https://www.memrise.com/garden/review/*
+// @match          https://app.memrise.com/course/*/garden/*
+// @match          https://app.memrise.com/garden/review/*
+// @match          https://decks.memrise.com/course/*/garden/*
+// @match          https://decks.memrise.com/garden/review/*
 // @version        0.0.15
 // @updateURL      https://github.com/cooljingle/memrise-infinite-learning/raw/master/Memrise_Infinite_Learning.user.js
 // @downloadURL    https://github.com/cooljingle/memrise-infinite-learning/raw/master/Memrise_Infinite_Learning.user.js
